@@ -1,7 +1,4 @@
 
-
-<a href="https://github.com/QiShaoXuan/wavejs/blob/master/README_en.md">English</a>
-
 # Wave animation
 
 a flexible ,configurable animation of wave

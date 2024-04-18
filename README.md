@@ -1,4 +1,4 @@
-<a href="https://github.com/QiShaoXuan/wavejs/blob/master/README.md">中文</a>
+
 
 <a href="https://github.com/QiShaoXuan/wavejs/blob/master/README_en.md">English</a>
 
@@ -9,8 +9,6 @@ a flexible ,configurable animation of wave
 <a href="https://qishaoxuan.github.io/wavejs/">simple demo</a>
 
 <a href="https://qishaoxuan.github.io/css_tricks/notCSS/wave.html">demo has code</a>
-
-<a href="https://juejin.im/post/5c64ce6ef265da2d8c7db0df">教程</a>
 
 ## How to use
 
